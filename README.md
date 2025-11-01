@@ -33,4 +33,6 @@ Estou sempre buscando **melhorar minhas habilidades** e explorar novas áreas de
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anawxv&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawxv&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawxv&layout=compact&theme=radical&hide=LLVM" height="180em"/>
+
 </div>
