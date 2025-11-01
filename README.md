@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anawxv/anawxv/main/github-header-banner.png" width="100%" alt="Banner Ana" />
-</p>
+
 
 
 <h1 align="center">
