@@ -1,5 +1,5 @@
 
-
+![Header](./github-header-bannerg)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Ana!🎀" alt="Typing SVG" />
